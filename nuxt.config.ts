@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
   modules: [
-    '/Users/s00d/packeges/nuxt-i18n-next/src/module',
+    'nuxt-i18n-micro',
     '@nuxtjs/storybook'
   ],
 
