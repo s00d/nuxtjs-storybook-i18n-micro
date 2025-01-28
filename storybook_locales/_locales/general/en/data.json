@@ -12,5 +12,9 @@
   "messages": {
     "users": "no users | {count} user | {count} users",
     "posts": "no posts | {count} post | {count} posts"
+  },
+  "footer": {
+    "disclaimer": "© 2023 All rights reserved",
+    "contact": "Contact us at <a href='mailto:info@example.com'>info@example.com</a>"
   }
 }
